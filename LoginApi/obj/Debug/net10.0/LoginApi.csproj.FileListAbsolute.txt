@@ -41,6 +41,9 @@ C:\CPOO\LoginAPI\LoginApi\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
 C:\CPOO\LoginAPI\LoginApi\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
 C:\CPOO\LoginAPI\LoginApi\bin\Debug\net10.0\Mono.TextTemplating.dll
 C:\CPOO\LoginAPI\LoginApi\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\CPOO\LoginAPI\LoginApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\CPOO\LoginAPI\LoginApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\CPOO\LoginAPI\LoginApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\CPOO\LoginAPI\LoginApi\bin\Debug\net10.0\System.ClientModel.dll
 C:\CPOO\LoginAPI\LoginApi\bin\Debug\net10.0\System.CodeDom.dll
 C:\CPOO\LoginAPI\LoginApi\bin\Debug\net10.0\System.Composition.AttributedModel.dll
@@ -149,6 +152,7 @@ C:\CPOO\LoginAPI\LoginApi\obj\Debug\net10.0\LoginApi.AssemblyInfo.cs
 C:\CPOO\LoginAPI\LoginApi\obj\Debug\net10.0\LoginApi.csproj.CoreCompileInputs.cache
 C:\CPOO\LoginAPI\LoginApi\obj\Debug\net10.0\LoginApi.MvcApplicationPartsAssemblyInfo.cs
 C:\CPOO\LoginAPI\LoginApi\obj\Debug\net10.0\LoginApi.MvcApplicationPartsAssemblyInfo.cache
+C:\CPOO\LoginAPI\LoginApi\obj\Debug\net10.0\LoginApi.sourcelink.json
 C:\CPOO\LoginAPI\LoginApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
 C:\CPOO\LoginAPI\LoginApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 C:\CPOO\LoginAPI\LoginApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
